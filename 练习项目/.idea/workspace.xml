@@ -16,8 +16,13 @@
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
 <<<<<<< HEAD
+            <state relative-caret-position="133">
+              <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+=======
+<<<<<<< HEAD
             <state relative-caret-position="152">
               <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+>>>>>>> c35c2d6ec7c539ac9f57555aaa6610a6cee381b2
 =======
 <<<<<<< HEAD
             <state relative-caret-position="95">
@@ -27,10 +32,13 @@
               <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
 >>>>>>> 1473309d3685ad01c678fdf4516f9ff6a58c23c2
 >>>>>>> master
+<<<<<<< HEAD
+=======
 =======
             <state relative-caret-position="133">
               <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
 >>>>>>> 5c02cf67790e72f1cc9474545c2efef32bde2fe3
+>>>>>>> c35c2d6ec7c539ac9f57555aaa6610a6cee381b2
             </state>
           </provider>
         </entry>
@@ -60,6 +68,16 @@
     </navigator>
     <panes>
 <<<<<<< HEAD
+<<<<<<< HEAD
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+=======
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+>>>>>>> master
+=======
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
@@ -68,6 +86,7 @@
       <pane id="PackagesPane" />
       <pane id="Scope" />
 >>>>>>> 5c02cf67790e72f1cc9474545c2efef32bde2fe3
+>>>>>>> c35c2d6ec7c539ac9f57555aaa6610a6cee381b2
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -75,17 +94,26 @@
     <property name="aspect.path.notification.shown" value="true" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601340939047" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+=======
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601301236922" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> c35c2d6ec7c539ac9f57555aaa6610a6cee381b2
 =======
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601347221370" />
     <property name="last_opened_file_path" value="D:/test_zhuji02/test_project/练习项目" />
 >>>>>>> master
+<<<<<<< HEAD
+=======
 =======
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601340939047" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
 >>>>>>> 5c02cf67790e72f1cc9474545c2efef32bde2fe3
+>>>>>>> c35c2d6ec7c539ac9f57555aaa6610a6cee381b2
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -131,6 +159,12 @@
       <workItem from="1601297707594" duration="1084000" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+      <workItem from="1601340482369" duration="452000" />
+=======
+      <workItem from="1601345745642" duration="1377000" />
+>>>>>>> master
+=======
+<<<<<<< HEAD
       <workItem from="1601345763699" duration="330000" />
 =======
       <workItem from="1601345745642" duration="1377000" />
@@ -138,13 +172,18 @@
 =======
       <workItem from="1601340482369" duration="452000" />
 >>>>>>> 5c02cf67790e72f1cc9474545c2efef32bde2fe3
+>>>>>>> c35c2d6ec7c539ac9f57555aaa6610a6cee381b2
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
 <<<<<<< HEAD
+    <option name="totallyTimeSpent" value="3349000" />
+=======
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="3227000" />
+>>>>>>> c35c2d6ec7c539ac9f57555aaa6610a6cee381b2
 =======
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="4274000" />
@@ -152,9 +191,12 @@
     <option name="totallyTimeSpent" value="2907000" />
 >>>>>>> 1473309d3685ad01c678fdf4516f9ff6a58c23c2
 >>>>>>> master
+<<<<<<< HEAD
+=======
 =======
     <option name="totallyTimeSpent" value="3349000" />
 >>>>>>> 5c02cf67790e72f1cc9474545c2efef32bde2fe3
+>>>>>>> c35c2d6ec7c539ac9f57555aaa6610a6cee381b2
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -199,8 +241,13 @@
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
 <<<<<<< HEAD
+        <state relative-caret-position="133">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+=======
+<<<<<<< HEAD
         <state relative-caret-position="152">
           <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+>>>>>>> c35c2d6ec7c539ac9f57555aaa6610a6cee381b2
 =======
 <<<<<<< HEAD
         <state relative-caret-position="95">
@@ -210,10 +257,13 @@
           <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
 >>>>>>> 1473309d3685ad01c678fdf4516f9ff6a58c23c2
 >>>>>>> master
+<<<<<<< HEAD
+=======
 =======
         <state relative-caret-position="133">
           <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
 >>>>>>> 5c02cf67790e72f1cc9474545c2efef32bde2fe3
+>>>>>>> c35c2d6ec7c539ac9f57555aaa6610a6cee381b2
         </state>
       </provider>
     </entry>

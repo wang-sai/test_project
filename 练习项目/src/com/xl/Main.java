@@ -10,7 +10,12 @@ public class Main {
         System.out.println("aaa");
         System.out.println("master2");
         System.out.println("abc");
+<<<<<<< HEAD
         System.out.println("2来了");
+=======
+        System.out.println("1号主机先改了");
+
+>>>>>>> 054ebdd217276f178acd747b5b16a0daf9a1c07d
     }
 
     public int add(int n){
