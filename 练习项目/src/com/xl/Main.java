@@ -10,6 +10,7 @@ public class Main {
         System.out.println("aaa");
         System.out.println("master2");
         System.out.println("abc");
+        System.out.println("2来了");
     }
 
     public int add(int n){
