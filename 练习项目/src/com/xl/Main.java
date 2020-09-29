@@ -6,6 +6,7 @@ public class Main {
          Main main=new Main();
          int x=main.add(20);
         System.out.println(x);
+        System.out.println("aaa");
     }
 
     public int add(int n){
