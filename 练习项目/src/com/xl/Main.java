@@ -6,9 +6,11 @@ public class Main {
          Main main=new Main();
          int x=main.add(20);
         System.out.println(x);
-        System.out.println("abc");
+        System.out.println("2号主机1");
         System.out.println("aaa");
         System.out.println("master2");
+        System.out.println("abc");
+
     }
 
     public int add(int n){
