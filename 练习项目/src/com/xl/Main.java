@@ -7,6 +7,8 @@ public class Main {
          int x=main.add(20);
         System.out.println(x);
         System.out.println("2号主机1");
+        System.out.println("aaa");
+        System.out.println("master2");
     }
 
     public int add(int n){

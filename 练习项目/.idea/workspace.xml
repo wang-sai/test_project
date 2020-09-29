@@ -14,8 +14,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/xl/Main.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="152">
               <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="95">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+=======
+            <state relative-caret-position="152">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+>>>>>>> 1473309d3685ad01c678fdf4516f9ff6a58c23c2
+>>>>>>> master
             </state>
           </provider>
         </entry>
@@ -52,8 +62,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601301236922" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601347221370" />
+    <property name="last_opened_file_path" value="D:/test_zhuji02/test_project/练习项目" />
+>>>>>>> master
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -97,12 +112,24 @@
       <workItem from="1601173920031" duration="606000" />
       <workItem from="1601188685598" duration="1207000" />
       <workItem from="1601297707594" duration="1084000" />
+<<<<<<< HEAD
       <workItem from="1601345763699" duration="330000" />
+=======
+      <workItem from="1601345745642" duration="1377000" />
+>>>>>>> master
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="3227000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="4274000" />
+=======
+    <option name="totallyTimeSpent" value="2907000" />
+>>>>>>> 1473309d3685ad01c678fdf4516f9ff6a58c23c2
+>>>>>>> master
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -145,8 +172,18 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/xl/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="152">
           <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="95">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+=======
+        <state relative-caret-position="152">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+>>>>>>> 1473309d3685ad01c678fdf4516f9ff6a58c23c2
+>>>>>>> master
         </state>
       </provider>
     </entry>
