@@ -10,6 +10,7 @@ public class Main {
         System.out.println("aaa");
         System.out.println("master2");
         System.out.println("abc");
+        System.out.println("1号主机先改了");
 
     }
 
