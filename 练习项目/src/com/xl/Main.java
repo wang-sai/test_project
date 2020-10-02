@@ -20,6 +20,8 @@ public class Main {
 
         System.out.println("shehuiren ");
 
+        System.out.println("b");
+
     }
 
     public int add(int n){
