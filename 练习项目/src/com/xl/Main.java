@@ -12,11 +12,12 @@ public class Main {
         System.out.println("abc");
         System.out.println("2来了");
         System.out.println("1号主机先改了");
-<<<<<<< HEAD
+
         System.out.println("主修改了");
-=======
+
         System.out.println("开发改了");
->>>>>>> dev
+
+        System.out.println("shehuiren ");
     }
 
     public int add(int n){
